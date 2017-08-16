@@ -1,0 +1,8 @@
+{
+  "prevent_autofocus": true,
+  "mode.normal.reload_force": "R aa",
+  "mode.normal.scroll_half_page_down": "",
+  "mode.normal.scroll_half_page_up": "",
+  "mode.normal.tab_close": "x d",
+  "mode.normal.tab_restore": "X u"
+}
