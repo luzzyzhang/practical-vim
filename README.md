@@ -8,6 +8,6 @@ Practical Vim summary
 
 [CtrlP](https://github.com/kien/ctrlp.vim)
 
-[Open file under cursor](http://vim.wikia.com/wiki/Open_file_under_cursor)
+[Open file under cursor](https://github.com/ctrlpvim/ctrlp.vim)
 
 [YouCompleteMe](https://github.com/Valloric/YouCompleteMe#goto-commands)
