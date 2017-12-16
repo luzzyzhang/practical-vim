@@ -38,6 +38,7 @@ let g:ycm_key_invoke_completion='<C-]>'
 let g:ycm_key_list_select_completion = ['<TAB>', '<Down>']
 let g:ycm_key_list_stop_completion = ['<Enter>']
 let g:ycm_python_binary_path='/usr/local/bin/python3'
+"let g:ycm_goto_buffer_command='new-tab'
 "-------------------------------------------
 let mapleader = ";"
 nnoremap <leader>gd:YcmCompleter GoToDeclaration<CR>
