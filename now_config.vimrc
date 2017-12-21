@@ -20,6 +20,7 @@ set number
 colorscheme solarized
 "set incsearch
 set hlsearch
+set autochdir
 "set tags=./tags
 "set clipboard=unnamed
 "============================================
