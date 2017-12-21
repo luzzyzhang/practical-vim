@@ -21,6 +21,7 @@ colorscheme solarized
 "set incsearch
 set hlsearch
 set autochdir
+set title
 "set tags=./tags
 "set clipboard=unnamed
 "============================================
